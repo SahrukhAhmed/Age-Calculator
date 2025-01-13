@@ -46,8 +46,6 @@ This is a simple web-based Age Calculator application that calculates your age b
 - Implement error handling for invalid date inputs.
 - Make the application mobile-friendly.
 
-## About the Author
-This project was developed by **Md Shabab**, a microbiologist with a passion for data analysis and web development. Learn more about his professional journey and projects on his GitHub profile.
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
